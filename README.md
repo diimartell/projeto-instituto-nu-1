@@ -1,4 +1,4 @@
-# Projeto Instituto NU - Tela de Login
+# Projeto Instituto NU - Tela de Login <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6681/6681204.png" />
 
 Primeiro projeto do Instituto NU em parceria com o Descomplica, cujo objetivo foi desenvolver um protótipo de tela de login.
 
